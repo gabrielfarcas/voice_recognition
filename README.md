@@ -12,5 +12,6 @@ After this, just run the file named "main.py"
 $ (venv)- main.py
 
 In linux is need this package for PyAudio to work
+
 $ sudo apt-get install portaudio19-dev
 $ sudo apt-get install python3-pyaudio
